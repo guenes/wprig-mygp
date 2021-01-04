@@ -15,7 +15,7 @@
     "styles": {
       "stage": 3,
       "autoprefixer": {
-        "grid": false
+        "grid": true
       },
       "importFrom": [
         "_custom-media.css"
@@ -29,7 +29,7 @@
     "debug": {
       "styles": false,
       "scripts": false,
-      "phpcs": true
+      "phpcs": false
     }
   },
   "export": {
