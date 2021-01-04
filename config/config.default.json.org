@@ -1,14 +1,14 @@
 {
   "theme": {
-    "slug": "mygp",
-    "name": "My GridPress Theme",
+    "slug": "wp-rig",
+    "name": "WP Rig",
     "author": "The WP Rig Contributors",
-    "PHPNamespace": "MY_GP\\MY_GP"
+    "PHPNamespace": "WP_Rig\\WP_Rig"
   },
   "dev": {
     "browserSync": {
       "live": true,
-      "proxyURL": "dev3.evdev.de:8888",
+      "proxyURL": "wprig.test:8888",
       "bypassPort": "8181",
       "https": false
     },
